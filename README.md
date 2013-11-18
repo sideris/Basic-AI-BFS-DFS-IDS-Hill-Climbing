@@ -1,7 +1,7 @@
-Hill_Climbing
-=============
+Artificial Intelligence Algorithms - Problem Solving
+====================================================
 
-Hill Climbing Solutions for 8-Puzzle and N-Queens problems in C++
+A.I. Solutions for 8-Puzzle and N-Queens problems in C++
 
 Simple A.I. Algorithms to solve the 8-puzzle and N-Queens problems. The purpose of this(besides fun) it's to benchmark the algorithms against each other for certain kind of problems.
 
