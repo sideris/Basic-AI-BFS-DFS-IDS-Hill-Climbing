@@ -152,7 +152,7 @@ public:
 					int i=rand() % Size;
 					int j=rand() % Size;
 					next = *this;
-					if ( next.a[i]!=j && checked[i][j]=1){
+					if ( next.a[i]!=j && checked[i][j]==1){
 						checked[i][j]=1;
 						next.a[i]=j;
 						next.Calc_cost();
